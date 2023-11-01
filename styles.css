@@ -1,0 +1,25 @@
+body {
+    background-color:lightskyblue;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+  }
+  hr {
+    border: none;
+    background-color: azure;
+    color: azure;
+    height: 2px;
+  }
+span.qualities {
+    color: crimson;
+}
+.movies {
+    padding: 0; 
+    margin-left: 20px;
+  }
+.subjects {
+    padding: 0; 
+    margin-left: 20px;
+  }
